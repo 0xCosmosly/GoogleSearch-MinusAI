@@ -1,4 +1,4 @@
-# Google AI Filter 🔍
+# Google Search Minus AI 🔍
 
 A lightweight Tampermonkey userscript that automatically appends ` -ai` to your Google search queries. 
 
@@ -14,7 +14,7 @@ Filtering out AI-generated SEO spam has never been easier!
 ## Getting Started
 
 1. Make sure you have the [Tampermonkey](https://www.tampermonkey.net/) extension installed in your browser.
-2. Open the raw version of [`google-ai-filter.user.js`](./google-ai-filter.user.js) in your browser.
+2. Open the raw version of [`google-search-minus-ai.user.js`](./google-search-minus-ai.user.js) in your browser.
 3. Tampermonkey will automatically prompt you to install it. Click **Install**.
 4. Start searching on `google.com` and watch the results become relevant again!
 

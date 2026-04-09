@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Append -ai to Google Search
+// @name         Google Search Minus AI
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Automatically appends " -ai" to Google search queries to filter out AI results.
