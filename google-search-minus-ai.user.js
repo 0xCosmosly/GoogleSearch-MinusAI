@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Google Search Minus AI
 // @namespace    http://tampermonkey.net/
-// @version      2.6
+// @version      2.7
 // @description  Removes Google's AI Overview block and the 'Ask anything' box from search results, leaving the real links.
 // @author       0xCosmosly
 // @homepageURL  https://github.com/0xCosmosly/GoogleSearch-MinusAI
