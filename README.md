@@ -6,6 +6,8 @@ Google puts a generated AI Overview above your results and an "Ask anything" pro
 
 > **Short answer:** install the script, search on Google, and the AI Overview and "Ask anything" box are gone. The **AI Mode** tab stays, and your organic results are untouched.
 
+![Google Search Minus AI — before and after](docs/screenshot.png)
+
 ## What changed in v2
 
 v1 of this script appended ` -ai` to your search query. That was the wrong approach: it changed what you searched for rather than removing anything, and Google ignores `-ai` for AI Overviews — the block still appeared. **v2 removes the AI Overview element from the page instead**, which is what the script always claimed to do.
