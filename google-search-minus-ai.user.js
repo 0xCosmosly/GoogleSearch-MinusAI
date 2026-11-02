@@ -4,6 +4,7 @@
 // @version      2.7
 // @description  Removes Google's AI Overview block and the 'Ask anything' box from search results, leaving the real links.
 // @author       0xCosmosly
+// @license       MIT
 // @homepageURL  https://github.com/0xCosmosly/GoogleSearch-MinusAI
 // @supportURL   https://github.com/0xCosmosly/GoogleSearch-MinusAI/issues
 // @match        *://www.google.com/search*
